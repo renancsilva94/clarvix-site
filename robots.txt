@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Bloquear arquivos desnecessários
+Disallow: /404.html
+
+# Sitemap
+Sitemap: https://www.clarvix.com.br/sitemap.xml
+
+# llms.txt para IAs
+# llms-txt: https://www.clarvix.com.br/llms.txt
